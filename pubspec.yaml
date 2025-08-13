@@ -1,0 +1,15 @@
+name: gen_annotation
+description: "A collection of annotations required for gen package"
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  json_annotation: ^4.9.0
+
+dev_dependencies:
+  very_good_analysis: ^7.0.0
