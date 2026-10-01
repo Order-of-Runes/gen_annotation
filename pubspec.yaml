@@ -1,15 +1,11 @@
 name: gen_annotation
-description: "A collection of annotations required for gen package"
-version: 0.0.2
+description: "A collection of lightweight Dart annotations for marking classes and members for source code generation."
+version: 0.0.1
 publish_to: none
 
 environment:
-  sdk: ">=3.8.0 <4.0.0"
-
-dependencies:
-  flutter:
-    sdk: flutter
-  json_annotation: ^4.9.0
+  sdk: ^3.13.4
+  flutter: ">=3.47.5"
 
 dev_dependencies:
-  very_good_analysis: ^7.0.0
+  very_good_analysis: ^11.0.0

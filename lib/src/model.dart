@@ -1,6 +1,6 @@
 // Copyright (c) 2025 Order of Runes Authors. All rights reserved.
 
-import 'package:json_annotation/json_annotation.dart';
+import 'package:gen_annotation/src/helper/field_rename.dart';
 
 class GenModel {
   const GenModel({
