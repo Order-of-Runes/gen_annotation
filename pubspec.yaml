@@ -1,7 +1,7 @@
 name: gen_annotation
 description: "A collection of lightweight Dart annotations for marking classes and members for source code generation."
 version: 0.0.1
-publish_to: none
+homepage: https://github.com/Order-of-Runes/gen_annotation
 
 environment:
   sdk: ^3.13.4
